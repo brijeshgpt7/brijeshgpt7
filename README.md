@@ -8,13 +8,13 @@ Current go-to language is [Ruby][1].
 
 Other Languages: [JavaScript][3] and [Python][9].
 
-[JavaScript Frameworks][4]: [NodeJs][5], [Express-js][6], [Emberjs][7], [Angular-Js][8].
+JavaScript Frameworks: [NodeJs][5], [Express-js][6], [Emberjs][7], [Angular-Js][8].
 
 Containerized Tool: [Kubernetes][10], [Docker][11], [Podman][12].
 
 [1]: http://ruby-lang.org/
 [3]:https://developer.mozilla.org/enUS/docs/Learn/Getting_started_with_the_web/JavaScript_basics
-[4]: https://en.wikipedia.org/wiki/JavaScript_framework
+
 [5]: https://nodejs.org/en/about/
 [6]: http://expressjs.com/
 [7]: http://emberjs.com/
