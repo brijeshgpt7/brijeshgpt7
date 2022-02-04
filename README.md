@@ -9,8 +9,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://stackoverflow.com/users/3098330/gupta">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="StackOverflow Badge"/>
+    <img src="https://img.shields.io/badge/StackOverflow-Profile-orange?label= StackOverflow&message=Profile&color= orange" alt="StackOverflow Badge"/>
   </a>
+  
   <a href="https://twitter.com/brijeshgpt7">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
